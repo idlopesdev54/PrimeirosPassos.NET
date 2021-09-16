@@ -1,0 +1,16 @@
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.exe
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.deps.json
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.runtimeconfig.json
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.runtimeconfig.dev.json
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.dll
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\ref\Revison.dll
+D:\Escolas\DIO\C#\Revison\bin\Debug\net5.0\Revison.pdb
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.csproj.AssemblyReference.cache
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.AssemblyInfoInputs.cache
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.AssemblyInfo.cs
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.csproj.CoreCompileInputs.cache
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.dll
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\ref\Revison.dll
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.pdb
+D:\Escolas\DIO\C#\Revison\obj\Debug\net5.0\Revison.genruntimeconfig.cache
